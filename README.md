@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoanghaiphan
 - 👀 I’m interested in getting better in coding.
-- 🌱 I’m currently learning to create a decent product.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to use github.
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me ...
 
 <!---
